@@ -12,6 +12,7 @@ import (
 
 // Token is a bearer token
 // You can get it from GITHUB>>Setting>>developer Setting>>PersonalAccessToken>>GenerateNewToken>>COPYandPASTE here.
+// Remember to checkmark all the permissions for the token
 var Token string = "ee3068ce4601cec21da6cc07827ea74c4b06ee5"
 //Change only token
 //
